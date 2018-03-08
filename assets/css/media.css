@@ -408,6 +408,11 @@
 	.blog-post h1 {
 		font-size: 35px;
 	}
+	/*.blog-post {
+		padding-top: 4%;
+		line-height: 36px;
+
+	}*/
 }
 @media (max-width: 500px) {
 	.left-box h1 {
