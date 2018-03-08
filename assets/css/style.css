@@ -2246,6 +2246,6 @@ main {
 .container {
     max-width: 990px;
 }
- {
-    width: 100%;
+.recruter-box {
+    margin: 0 auto;
 }
